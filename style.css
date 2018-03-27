@@ -1,0 +1,20 @@
+#image{    
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+}
+
+#droite{
+    background-color: white;
+    opacity: 0.7;
+}
+
+#titre{
+    font-size: 100px;
+    color: silver;
+}
+body {
+color:black;
+background-color:white;
+background-image:url(347959.jpg);
+}
